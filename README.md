@@ -1,6 +1,6 @@
 # Parameter Golf Armenia — YSU Compute Access
 
-**Organizers:** YSU, YerevaNN, Eleveight  
+**Organizers:** YSU, YerevaNN, Eleveight AI
 **Competition:** March 24 – April 30, 2026  
 **Main goal:** Support participants from Armenia in the [OpenAI Parameter Golf](https://github.com/openai/parameter-golf) competition.
 
@@ -12,7 +12,7 @@
 
 **Important:** The OpenAI competition is not standard—not every submission appears on the leaderboard. [Only submissions that advance state-of-the-art at the time of submission are recorded](https://github.com/openai/parameter-golf?tab=readme-ov-file#leaderboard). The leaderboard is competitive and selective.
 
-OpenAI partners with Runpod to offer compute credits to participants worldwide. **Parameter Golf Armenia** provides an alternative: YSU supercomputer access for Armenia residents who register for compute. YSU, YerevaNN, and Eleveight jointly organize the Armenia track; Eleveight sponsors the compute allocation, coordination, and prizes. **YSU compute is optional**—every Armenia resident is eligible for the prize regardless of whether they use YSU compute.
+OpenAI partners with Runpod to offer compute credits to participants worldwide. **Parameter Golf Armenia** provides an alternative: YSU supercomputer access for Armenia residents who register for compute. YSU, YerevaNN, and Eleveight AI jointly organize the Armenia track; Eleveight AI sponsors the compute allocation, coordination, and prizes. **YSU compute is optional**—every Armenia resident is eligible for the prize regardless of whether they use YSU compute.
 
 ---
 
@@ -26,11 +26,11 @@ Participants may upload as many submissions as they want. Organizers will consid
 
 ---
 
-## Prize (500,000 AMD — Eleveight)
+## Prize (500,000 AMD from Eleveight AI)
 
 ### Scenario A: One or more Armenia submissions on the OpenAI leaderboard
 
-If by the end of the competition (April 30) one or more submissions from Armenia appear on the [official OpenAI leaderboard](https://github.com/openai/parameter-golf?tab=readme-ov-file#leaderboard), the author of the best Armenia result gets the **500,000 AMD** prize, sponsored by Eleveight.
+If by the end of the competition (April 30) one or more submissions from Armenia appear on the [official OpenAI leaderboard](https://github.com/openai/parameter-golf?tab=readme-ov-file#leaderboard), the author of the best Armenia result gets the **500,000 AMD** prize, sponsored by Eleveight AI.
 
 ### Scenario B: No Armenia submission on the OpenAI leaderboard
 
@@ -48,7 +48,7 @@ If no participant from Armenia makes the OpenAI leaderboard, organizers run an *
 ## Additional Prize & Benefits
 
 - **Most creative solution:** There may be an additional prize for the most creative solution, as determined by the organizers. (Details to be determined.)
-- **Compute credits:** Winners may receive compute credits from Eleveight. (Subject to Eleveight’s decision.)
+- **Compute credits:** Winners may receive compute credits from Eleveight AI. (Subject to Eleveight AI’s decision.)
 
 ---
 
@@ -149,7 +149,7 @@ Optional. If you submit by April 14th, your latest submission will be evaluated 
 No. Copies and reimplementations of publicly available solutions are disqualified in Scenario B (internal evaluation). We encourage unique and creative solutions.
 
 **How is "most creative solution" determined?**  
-By the organizers (YSU, YerevaNN, Eleveight). Details to be determined.
+By the organizers (YSU, YerevaNN, Eleveight AI). This is going to be subjectively judged by AI experts.
 
 **When will the prize be awarded?**  
 After the competition ends (April 30) and evaluation is complete. Exact date TBD.
