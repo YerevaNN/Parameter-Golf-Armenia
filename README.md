@@ -54,7 +54,7 @@ If no participant from Armenia makes the OpenAI leaderboard, organizers run an *
 
 ## YSU Compute Allocation per Participant (Optional)
 
-Participants who want YSU compute access must fill the **registration form** (below). Compute is **optional**—it is not required for prize eligibility.
+Participants who want YSU compute access must fill the [**registration form**](https://forms.gle/RGGjcAhCsBGY4NjY9). Compute is **optional**, it is not required for prize eligibility.
 
 | Tier | GPU-hours | Use case |
 |------|-----------|----------|
@@ -74,37 +74,6 @@ Participants who want YSU compute access must fill the **registration form** (be
 ## Eligibility
 
 **Participants must be residents of Armenia.** Proof of residence (e.g., address, employment contract, or enrollment at an Armenian educational institution) is required. Only one person is considered per submission.
-
----
-
-## Registration — Google Form Fields (Compute Access)
-
-Participants who want YSU compute access must complete this form.
-
-### Section 1: Identity
-
-| Field | Type | Required | Notes |
-|-------|------|----------|-------|
-| Full name | Short answer | Yes | As it will appear on the leaderboard |
-| Email | Short answer | Yes | Primary contact |
-| GitHub username | Short answer | Yes | Must match the account used for Parameter Golf submissions |
-| Proof of residence in Armenia | File upload or Short answer | Yes | Address, employment contract, or enrollment certificate |
-| Affiliation | Short answer | No | University, company, or "Independent" |
-
-### Section 2: Eligibility
-
-| Field | Type | Required | Notes |
-|-------|------|----------|-------|
-| I confirm I am not working in a company which has its headquarters in a D:5 country | Checkbox | Yes | Must check to proceed. See FAQ for list of D:5 countries. |
-| I would like YSU compute access | Checkbox | Yes | Must check (this form is for compute registration) |
-
-### Section 3: Technical (Optional)
-
-| Field | Type | Required | Notes |
-|-------|------|----------|-------|
-| Current role | Dropdown | No | Undergrad / Grad / Industry / Other |
-| Have you cloned the Parameter Golf repo? | Multiple choice | No | Yes / No / Not yet |
-| Anything else we should know? | Paragraph | No | Free text |
 
 ---
 
@@ -169,7 +138,7 @@ Only one person is considered per submission. The team should designate a single
 **What are D:5 countries, and why does my employer matter?**  
 Participants must confirm they are not working for a company headquartered in a D:5 (sanctioned/restricted) country. This requirement applies to both compute access and prize eligibility. **Example:** A student enrolled at an Armenian university who also works at an Armenian branch of a Russian company cannot get compute access—the company headquarters is in a D:5 country (Russian Federation). If such a violation is detected, the person will be banned from the competition.
 
-**D:5 countries** (company headquarters in these countries disqualifies from compute access and prize): Afghanistan, Belarus, Cameroon, Central African Republic, Cuba, Haiti, Iran, Iraq, Israel, Kenya, Lebanon, Libya, Mali, Mozambique, Myanmar, Nigeria, North Korea, Palestinian Territories, Republic of Congo, Russian Federation, Russia-occupied or annexed regions of Ukraine (including Crimea, Donetsk, Kherson, Luhansk, Sevastopol, Zaporizhzhia), Somalia, Sudan, South Sudan, Syria, Venezuela, Yemen, Zimbabwe.
+**D:5 countries** (company headquarters in these countries disqualifies from compute access): Afghanistan, Belarus, Cameroon, Central African Republic, Cuba, Haiti, Iran, Iraq, Israel, Kenya, Lebanon, Libya, Mali, Mozambique, Myanmar, Nigeria, North Korea, Palestinian Territories, Republic of Congo, Russian Federation, Russia-occupied or annexed regions of Ukraine (including Crimea, Donetsk, Kherson, Luhansk, Sevastopol, Zaporizhzhia), Somalia, Sudan, South Sudan, Syria, Venezuela, Yemen, Zimbabwe.
 
 **What happens if I use the compute for something other than the competition?**  
 Compute is for Parameter Golf only. If organizers detect misuse, the participant will be banned permanently from the competition and from future compute access.
